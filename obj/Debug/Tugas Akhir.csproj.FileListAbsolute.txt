@@ -1,0 +1,14 @@
+D:\DKP\C#\Tugas Akhir\bin\Debug\Tugas Akhir.exe.config
+D:\DKP\C#\Tugas Akhir\bin\Debug\Tugas Akhir.exe
+D:\DKP\C#\Tugas Akhir\bin\Debug\Tugas Akhir.pdb
+D:\DKP\C#\Tugas Akhir\obj\Debug\Tugas_Akhir.Form1.resources
+D:\DKP\C#\Tugas Akhir\obj\Debug\Tugas_Akhir.Forms.formDashboard.resources
+D:\DKP\C#\Tugas Akhir\obj\Debug\Tugas_Akhir.Properties.Resources.resources
+D:\DKP\C#\Tugas Akhir\obj\Debug\Tugas_Akhir.UserControls.Home.resources
+D:\DKP\C#\Tugas Akhir\obj\Debug\Tugas Akhir.csproj.GenerateResource.cache
+D:\DKP\C#\Tugas Akhir\obj\Debug\Tugas Akhir.csproj.CoreCompileInputs.cache
+D:\DKP\C#\Tugas Akhir\obj\Debug\Tugas Akhir.exe
+D:\DKP\C#\Tugas Akhir\obj\Debug\Tugas Akhir.pdb
+D:\DKP\C#\Tugas Akhir\obj\Debug\Tugas_Akhir.UserControls.Menu.resources
+D:\DKP\C#\Tugas Akhir\obj\Debug\Tugas_Akhir.UserControls.orderSkut.resources
+D:\DKP\C#\Tugas Akhir\obj\Debug\Tugas Akhir.csprojAssemblyReference.cache
